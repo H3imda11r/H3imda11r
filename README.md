@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Spencer, also known as H3imda11r
 <a href="https://linkedin.com](https://www.linkedin.com/in/spencer-nielsen-a8971317b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm Spencer, an IT professional driven by one core obsession: understanding how things work well enough to know exactly where they don't. From threat analysis to hands-on lab work, I chase the hard questions in cybersecurity because that's where the most interesting problems live.
