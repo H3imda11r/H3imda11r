@@ -31,7 +31,10 @@ In a field where awareness, vigilance, and precision separate a good analyst fro
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UniFi-00529B?&style=for-the-badge&logo=ubiquiti&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-212C5F?&style=for-the-badge&logo=pfsense&logoColor=white" />
+    
 </div>
 
 ### Endpoint
@@ -42,19 +45,37 @@ In a field where awareness, vigilance, and precision separate a good analyst fro
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-1A4B8C?&style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### Operating Systems
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-708090?&style=for-the-badge&logo=apple&logoColor=white" />
+</div>
+
+### Virtualization/Hypervisors
+<div>
+    <img src="https://img.shields.io/badge/-VMware_ESXi-3F9C35?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-XCP--ng-8E44AD?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Proxmox-000000?&style=for-the-badge&logo=proxmox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hyper--V-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-A%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Project%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pentest%2B-E2231A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-SSCP-00857D?&style=for-the-badge&logo=isc2&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCSP-00857D?&style=for-the-badge&logo=isc2&logoColor=white" />
 </div>
 
 ## Projects
