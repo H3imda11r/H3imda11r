@@ -25,7 +25,6 @@ In a field where awareness, vigilance, and precision separate a good analyst fro
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,8 +45,6 @@ In a field where awareness, vigilance, and precision separate a good analyst fro
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-1A4B8C?&style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### Operating Systems
