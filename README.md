@@ -13,7 +13,7 @@ Heimdallr, the Watchman of the Gods. Gifted with sight that spans the nine realm
 In a field where awareness, vigilance, and precision separate a good analyst from a great one, Heimdallr felt like a natural fit. I chose this name because it's not just a cool reference, it's a philosophy. See everything. Miss nothing. Sound the alarm when it counts.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+In Progress
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
